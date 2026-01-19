@@ -4,7 +4,6 @@
 * Japanese - English language proficiency
 * Actively seeking **internship opportunities** in Web Development and DevOps
 
----
 
 ## 🎯 About Me
 
@@ -13,7 +12,6 @@
 * Learning how to connect development with operations (CI/CD, servers, containers)
 * Able to communicate in **Japanese** in study and basic working environments
 
----
 
 ## 🛠️ Skills & Technologies
 
@@ -45,7 +43,6 @@
 * Japanese (Proficient for study and work communication)
 * English
 
----
 
 ## What I'm Looking For
 
@@ -59,7 +56,6 @@
   * Learn system operation and deployment workflows
   * Improve teamwork and problem-solving skills
 
----
 
 ## 📫 Contact
 
